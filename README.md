@@ -1,26 +1,27 @@
-📱 Mobile Cell Phone Price Prediction
+## 📱Mobile Cell Phone Price Prediction
 
 
-📌 Project Overview
+### 📌 Project Overview
 
 Mobile Cell Phone Price Prediction is a Machine Learning project designed to predict the selling price of a smartphone based on its technical specifications and features. The project helps consumers, retailers, and manufacturers estimate the market value of mobile devices using data-driven insights.
 
 By analyzing various smartphone attributes such as RAM, storage capacity, battery power, processor speed, camera quality, and screen size, the model predicts the expected price range of a mobile phone.
 
-🎯 Problem Statement
+### 🎯 Problem Statement
 
 The smartphone market contains thousands of devices with different specifications and price points. Determining a fair price for a mobile device can be challenging due to numerous influencing factors.
 
 The objective of this project is to develop a machine learning model that accurately predicts the price of a mobile phone based on its specifications.
 
-🚀 Objectives
+### 🚀 Objectives
 Analyze mobile phone specifications and pricing trends.
 Identify key features affecting smartphone prices.
 Perform exploratory data analysis (EDA).
 Build and evaluate machine learning models.
 Predict mobile phone prices with high accuracy.
 Support data-driven pricing decisions.
-📊 Dataset Information
+
+### 📊 Dataset Information
 
 The dataset contains smartphone specifications including:
 
@@ -57,7 +58,7 @@ Jupyter Notebook
 Google Colab
 GitHub
 
-## Model Comparison Report
+### Model Comparison Report
 
 | Model | Accuracy |
 |---------|---------|
